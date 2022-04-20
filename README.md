@@ -1,3 +1,3 @@
 Generate simple document
 
-demo: https://thealinux.github.io/Simple-Docs/
+demo: https://mealinux.github.io/Simple-Docs/
